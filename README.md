@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Arthur Valadão!
 
-<!--
-**Avvd12/Avvd12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Estudante de Análise e Desenvolvimento de Sistemas (FATEC Praia Grande)**  
+💡 Focado em **Python**, **Infraestrutura de TI**, **Redes** e **Cloud Computing**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tecnologias & Ferramentas
+- **Linguagens:** Python 🐍, JavaScript, Bash / Shell Scripting
+- **Infraestrutura & Servidores:** Linux, Servidores Dedicados, Gestão de Redes, Hardware & Troubleshooting
+- **Automação & Ferramentas:** Git, GitHub, Google Apps Script, Figma (UI/UX), VS Code
+
+---
+
+### 📌 Destaques & Projetos
+- 🤖 **[minecraft-discord-bot](https://github.com/Avvd12/minecraft-discord-bot):** Bot para Discord em Python focado na gestão e monitorização de servidores de Minecraft.
+- 🎮 **Esports Leader:** Capitão e In-Game Leader (IGL) da equipa universitária da FATEC Praia Grande, com automação de processos seletivos.
+- 🎓 **Certificação de Inglês:** Cambridge Linguaskill B2 (CEFR) — Fluência técnica e corporativa.
+
+---
+
+### 📬 Contactos
+- **LinkedIn:** [linkedin.com/in/arthur-valadao](https://www.linkedin.com/in/arthur-valadao)
+- **E-mail:** arthurvaladao2007@gmail.com
