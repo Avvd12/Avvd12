@@ -20,5 +20,5 @@
 ---
 
 ### 📬 Contactos
-- **LinkedIn:** [linkedin.com/in/arthur-valadao]([www.linkedin.com/in/arthur-valadão-dias](www.linkedin.com/in/arthur-valadão-dias))
+- **LinkedIn:** [www.linkedin.com/in/arthur-valadão-dias]([www.linkedin.com/in/arthur-valadão-dias](www.linkedin.com/in/arthur-valadão-dias))
 - **E-mail:** arthurvaladao2007@gmail.com
