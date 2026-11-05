@@ -26,7 +26,7 @@
 
 ### 📬 Contato
 
-- **LinkedIn:** [[arthur-valadao-dias]((https://br.linkedin.com/in/arthur-valad%C3%A3o-dias))](https://br.linkedin.com/in/arthur-valad%C3%A3o-dias)
+- **LinkedIn:** (https://br.linkedin.com/in/arthur-valad%C3%A3o-dias)
 - **E-mail:** arthurvaladao2007@gmail.com
 
 [⬆️ Voltar ao topo](#-olá-eu-sou-o-arthur-valadão--hi-im-arthur-valadão)
